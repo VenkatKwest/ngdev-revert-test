@@ -1,1 +1,1 @@
-Usage notes.
+Usage notes for the replica.
